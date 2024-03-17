@@ -1,0 +1,8 @@
+Task,Dependency,Scheduled Duration (Week),Planned Cost ,Actual Complete%,Actual Cost till Now
+A,---,1,$700 ,100,$600 
+B,A,5,"$1,200 ",20,$600 
+C,B,2,"$1,300 ",0,$0 
+D,"C,F,G",2,"$1,000 ",0,$0 
+E,A,2,$800 ,100,"$1,000 "
+F,E,3,"$2,100 ",66.67,"$2,200 "
+G,A,5,"$2,100 ",100,"$1,800 "
